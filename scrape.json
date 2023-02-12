@@ -1,0 +1,324 @@
+[
+  {
+    "id": "36988",
+    "name": "Lilly",
+    "birthYear": "2020",
+    "gender": 1,
+    "color": {
+      "id": "60",
+      "name": "Tigré"
+    },
+    "size": "Petit",
+    "description": "«Lilly» a été trouvée sur la voie publique. C’est une chatte gentille et câline et qui a son petit caractère. Pour Lilly, nous souhaitons une famille sans enfants ainsi qu’une maison avec jardin.",
+    "medallionNumber": "27867",
+    "nbLikes": 64,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/lilly-27867/",
+    "images": [
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-8-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-1-e1671111409103-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-2-e1671111366105-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-7-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-6-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-10-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120662-F-Tigree-Blanche-Lilly-27867-9-350x350.jpg"
+    ],
+    "videoUrl": null
+  },
+  {
+    "id": "39897",
+    "name": "Bella",
+    "birthYear": "2021",
+    "gender": 1,
+    "color": {
+      "id": "125",
+      "name": "Siamois"
+    },
+    "size": "Petit",
+    "description": "«Bella» a été trouvée sur la voie publique. C’est une minette très craintive qui ne gère pas bien ses émotions. Il faudra que sa future famille s’arme de patience pour qu’elle devienne petit à petit plus à l’aise avec l’humain. Avec le temps, Bella se montre douce et câline. Nous souhaitons pour elle un foyer sans enfants et en appartement.",
+    "medallionNumber": "27889",
+    "nbLikes": 8,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/bella-reservee/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120706-F-x-Siamoise-Bella-27889-4-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120706-F-x-Siamoise-Bella-27889-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120706-F-x-Siamoise-Bella-27889-2-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120706-F-x-Siamoise-Bella-27889-1-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120706-F-x-Siamoise-Bella-27889-1.mp4"
+  },
+  {
+    "id": "37132",
+    "name": "Alex",
+    "birthYear": "2015",
+    "gender": 0,
+    "color": {
+      "id": "61",
+      "name": "Noir"
+    },
+    "size": "Petit",
+    "description": "«Alex» est arrivé au refuge après avoir été trouvé sur la voie publique. C’est un très gentil matou.Il est porteur du FIV+ (Virus transmissible uniquement entre chats par voie sanguine ou sexuelle. Sans aucun danger pour l’humain, ni pour les autres animaux tel que le chien). Il doit donc vivre exclusivement en intérieur en appartement.",
+    "medallionNumber": "27900",
+    "nbLikes": 44,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/alex/",
+    "images": [
+      "https://spa33.fr/app/uploads/2022/12/120728-M-Noir-Fiv-27900-1-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120728-M-Noir-Fiv-27900-6-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120728-M-Noir-Fiv-27900-5-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120728-M-Noir-Fiv-27900-4-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120728-M-Noir-Fiv-27900-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2022/12/120728-M-Noir-Fiv-27900-2-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2022/12/120728-M-Noir-Fiv-27900-1.mp4"
+  },
+  {
+    "id": "39605",
+    "name": "Milo",
+    "birthYear": "2019",
+    "gender": 0,
+    "color": {
+      "id": "60",
+      "name": "Tigré"
+    },
+    "size": null,
+    "description": "«Milo» a été trouvé sur la voie publique. C’est un très gentil chat, affectueux et sociable. Il lui faudra une maison avec jardin.",
+    "medallionNumber": "27929",
+    "nbLikes": 0,
+    "isReserved": false,
+    "isAdopted": true,
+    "details_link": null,
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120784-M-Tigre-Milo-27929-6-350x350.jpg"
+    ],
+    "videoUrl": null
+  },
+  {
+    "id": "38951",
+    "name": "Jojo",
+    "birthYear": "2013",
+    "gender": 0,
+    "color": {
+      "id": "89",
+      "name": "Noir et blanc"
+    },
+    "size": "Petit",
+    "description": "«Jojo» a été trouvé sur la voie publique. Pourtant identifié, il n’a pas été récupéré par son ancien propriétaire. C’est un très gentil chat, câlin et joueur.Il est porteur du FIV+ (Virus transmissible uniquement entre chats par voie sanguine ou sexuelle. Sans aucun danger pour l’humain, ni pour les autres animaux tel que le chien). Il doit donc vivre exclusivement en intérieur en appartement.",
+    "medallionNumber": "27941",
+    "nbLikes": 45,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/jojo/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/01/120817-M-Noir-Blanc-Jojo-27941-4-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/01/120817-M-Noir-Blanc-Jojo-27941-1-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/01/120817-M-Noir-Blanc-Jojo-27941-2-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/01/120817-M-Noir-Blanc-Jojo-27941-5-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/01/120817-M-Noir-Blanc-Jojo-27941-3-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/01/120817-M-Noir-Blanc-Jojo-27941-1.mp4"
+  },
+  {
+    "id": "38595",
+    "name": "Mireille",
+    "birthYear": "2022",
+    "gender": 1,
+    "color": {
+      "id": "62",
+      "name": "Roux"
+    },
+    "size": "Petit",
+    "description": "«Mireille» a été trouvée sur la voie publique. C’est une minette très gentille, câline et affectueuse. Nous souhaitons lui trouver une famille vivant en maison avec jardin.",
+    "medallionNumber": "27949",
+    "nbLikes": 45,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/mireille/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/01/120827-F-Rousse-et-Blanche-Mireille-27949-2-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/01/120827-F-Rousse-et-Blanche-Mireille-27949-1-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/01/120827-F-Rousse-et-Blanche-Mireille-27949-3-e1673614809876-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/01/120827-F-Rousse-et-Blanche-Mireille-27949-1.mp4"
+  },
+  {
+    "id": "39599",
+    "name": "Marta",
+    "birthYear": "2022",
+    "gender": 1,
+    "color": {
+      "id": "60",
+      "name": "Tigré"
+    },
+    "size": "Petit",
+    "description": "«Marta» a été trouvée sur la voie publique. Cette jeune chatte est très gentille, câline et joueuse. Nous cherchons pour elle une famille vivant en maison avec jardin.",
+    "medallionNumber": "27953",
+    "nbLikes": 24,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/marta/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120832-F-Tigree-Angora-Marta-27953-3-e1675498504231-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120832-F-Tigree-Angora-Marta-27953-4-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120832-F-Tigree-Angora-Marta-27953-2-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120832-F-Tigree-Angora-Marta-27953-5-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120832-F-Tigree-Angora-Marta-27953-6-e1675498545950-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120832-F-Tigree-Angora-Marta-27953-1-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120832-F-Tigree-Angora-Marta-27953-1.mp4"
+  },
+  {
+    "id": "39807",
+    "name": "Sissy",
+    "birthYear": "2019",
+    "gender": 1,
+    "color": {
+      "id": "60",
+      "name": "Tigré"
+    },
+    "size": "Petit",
+    "description": "«Sissy» est arrivée au refuge après avoir été trouvée sur la voie publique. C’est une minette très craintive qui aura besoin d’une famille calme, douce et patiente. Il faudra savoir prendre le temps de lui redonner confiance en l’humain et en son environnement. Une fois qu’elle connaît Sissy sait se montrer câline. L’idéal pour Sissy serait des adoptants expérimentés qui savent sociabiliser les chats craintifs. Sissy est gourmande et se laisse facilement tenter par la nourriture, cela peut être un bon moyen d’entrer en contact avec elle. Pour son bien-être, nous lui cherchons une famille vivant dans un appartement assez spacieux. Un autre chat équilibré et bien dans ses pattes dans la famille pourrait être un plus pour l’aider à reprendre confiance.",
+    "medallionNumber": "27956",
+    "nbLikes": 4,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/sissy/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120838-F-Tigree-Blanche-Sissy-27956-1-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120838-F-Tigree-Blanche-Sissy-27956-1.mp4"
+  },
+  {
+    "id": "39602",
+    "name": "Lilly",
+    "birthYear": "2021",
+    "gender": 1,
+    "color": {
+      "id": "89",
+      "name": "Noir et blanc"
+    },
+    "size": "Petit",
+    "description": "«Lilly» a été trouvée sur la voie publique. Elle est assez craintive et aura besoin de maîtres doux et patients qui sauront prendre le temps de lui redonner confiance. Une fois qu’elle connaît et qu’elle est rassurée Lilly se montre très câline et très joueuse. Pour son bien-être, nous souhaitons lui trouver un foyer où il y a déjà un chat bien dans ses pattes. Une vie en appartement conviendrait mieux à Lilly.",
+    "medallionNumber": "27958",
+    "nbLikes": 20,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/lilly/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120841-F-Noire-et-Blanche-Lilly-27958-2-e1675498966428-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120841-F-Noire-et-Blanche-Lilly-27958-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120841-F-Noire-et-Blanche-Lilly-27958-1-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120841-F-Noire-et-Blanche-Lilly-27958-1.mp4"
+  },
+  {
+    "id": "39615",
+    "name": "Lola",
+    "birthYear": "2015",
+    "gender": 1,
+    "color": {
+      "id": "60",
+      "name": "Tigré"
+    },
+    "size": "Petit",
+    "description": "«Lola» a été trouvée sur la voie publique. C’est une chatte très vive, gentille et assez gourmande ! Lola aura besoin de vivre dans une maison avec jardin.",
+    "medallionNumber": "27960",
+    "nbLikes": 16,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/lola/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120847-F-Tigree-Blanche-Lola-27960-6-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120847-F-Tigree-Blanche-Lola-27960-5-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120847-F-Tigree-Blanche-Lola-27960-4-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120847-F-Tigree-Blanche-Lola-27960-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120847-F-Tigree-Blanche-Lola-27960-2-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120847-F-Tigree-Blanche-Lola-27960-1-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120847-F-Tigree-Blanche-Lola-27960-1.mp4"
+  },
+  {
+    "id": "39618",
+    "name": "Missy",
+    "birthYear": "2022",
+    "gender": 1,
+    "color": {
+      "id": "60",
+      "name": "Tigré"
+    },
+    "size": "Petit",
+    "description": "«Missy» a été trouvée sur la voie publique. Cette toute jeune chatte est très gentille, câline et joueuse. Très vive elle aura besoin d’une maison avec jardin pour pouvoir se dépenser à l’extérieur.",
+    "medallionNumber": "27972",
+    "nbLikes": 16,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/missy/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-7-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-1-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-6-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-8-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-4-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-2-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120883-F-Tigree-Blanche-Missy-27972-1.mp4"
+  },
+  {
+    "id": "39894",
+    "name": "Oscar",
+    "birthYear": "2018",
+    "gender": 0,
+    "color": {
+      "id": "89",
+      "name": "Noir et blanc"
+    },
+    "size": "Petit",
+    "description": "«Oscar» a été abandonné par son ancien propriétaire qui, suite à un déménagement en appartement, ne pouvait plus le garder. C’est un gentil chat, un peu craintif au départ mais qui devient vite câlin une fois qu’il est en confiance. Oscar préférera être le seul chat du foyer et vivre en maison avec jardin.",
+    "medallionNumber": "27982",
+    "nbLikes": 4,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/oscar/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120920-M-Noir-Blanc-Oscar-27982-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120920-M-Noir-Blanc-Oscar-27982-5-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120920-M-Noir-Blanc-Oscar-27982-4-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120920-M-Noir-Blanc-Oscar-27982-1-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120920-M-Noir-Blanc-Oscar-27982-2-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120920-M-Noir-Blanc-Oscar-27982-1.mp4"
+  },
+  {
+    "id": "39608",
+    "name": "Mouche",
+    "birthYear": "2022",
+    "gender": 1,
+    "color": {
+      "id": "66",
+      "name": "Ecaille"
+    },
+    "size": "Petit",
+    "description": "«Mouche» a été trouvée sur la voie publique. Cette toute jeune minette est très gentille, câline et joueuse. Mouche aura besoin de vivre en maison avec jardin.",
+    "medallionNumber": "27987",
+    "nbLikes": 21,
+    "isReserved": false,
+    "isAdopted": false,
+    "details_link": "https://spa33.fr/chat/mouche/",
+    "images": [
+      "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-6-e1675499755437-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-5-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-8-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-7-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-4-346x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-3-350x350.jpg",
+      "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-2-e1675500091255-350x350.jpg"
+    ],
+    "videoUrl": "https://spa33.fr/app/uploads/2023/02/120928-F-Ecaille-Mouche-27987-1.mp4"
+  }
+]

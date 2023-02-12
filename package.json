@@ -1,0 +1,39 @@
+{
+  "name": "spapi",
+  "version": "1.0.0",
+  "description": "A wrapper api for https://spa33.fr",
+  "main": "spapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jul-fls/SPAPI.git"
+  },
+  "keywords": [
+    "api",
+    "spa",
+    "cats",
+    "dogs",
+    "js",
+    "node",
+    "nodejs"
+  ],
+  "author": "jul-fls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jul-fls/SPAPI/issues"
+  },
+  "homepage": "https://github.com/jul-fls/SPAPI#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.1.2",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.6.3",
+    "request": "^2.88.2"
+  }
+}
